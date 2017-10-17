@@ -17,6 +17,24 @@
       "email": "sarahcroft@gmail.com",
       "phone": "(325)-345-2352",
       "log": "This\nis\nanother\ntest\nlog"
+    },
+    {
+      "first": "Spencer",
+      "last": "Smith",
+      "email": "an.email@website.net",
+      "phone": "8907654312",
+      "status": "Best dude ever",
+      "log": "",
+      "id": 3
+    },
+    {
+      "first": "",
+      "last": "",
+      "email": "",
+      "phone": "",
+      "status": "New Customer",
+      "log": "",
+      "id": 5
     }
   ]
 }
